@@ -1,0 +1,6 @@
+flask
+redis
+flask_api
+flask_httpauth
+flask_sqlalchemy
+pymysql
